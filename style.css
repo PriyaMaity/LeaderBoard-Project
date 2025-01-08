@@ -106,6 +106,10 @@ button:hover{
   font-weight: bold;
   margin: 10px 30px;
 }
+.player-data .name{
+  color: white;
+  text-decoration: underline black;
+}
 .player-data i{
   margin: 1rem;
   margin-left: 8rem;
@@ -174,6 +178,7 @@ button:hover{
   }
   .add-score{
     flex-direction: row;
+    width: 95%;
   }
 
   .player-data {
